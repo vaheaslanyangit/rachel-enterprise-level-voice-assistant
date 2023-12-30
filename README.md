@@ -47,9 +47,9 @@ This voice assistant could potentially resolve several issues such as:
 
 # Rachel
 
-<img src="/frontend/media/rachel.png" alt="Rachel Image">
+<img src="/frontend/media/Rachel.png" alt="Rachel Image">
 
-<img src="/frontend/media/rachel.png" alt="Rachel Image">
+<img src="/frontend/media/Rachel2.png" alt="Rachel Image">
 
 # Instructions
 
